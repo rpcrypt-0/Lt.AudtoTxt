@@ -1,6 +1,6 @@
-# LiteAudioScribe (AI-Powered Music Player)
+# LiteAudioPlayer&Scribe
 
-**LiteAudioScribe** is a lightweight desktop application that combines a local MP3 player with the power of Generative AI. It allows you to play your local music collection and generate accurate, timestamped subtitles on demand using Google's Gemini Flash model.
+**LiteAudioPlayer&Scribe** is a lightweight desktop application that combines a local MP3 player with the power of Generative AI. It allows you to play your local music collection and generate accurate, timestamped subtitles on demand using Google's Gemini Flash model.
 
 ## Features
 
